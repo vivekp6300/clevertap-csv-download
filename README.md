@@ -1,4 +1,7 @@
-## CleverTap python csv download tool
+## Python 2 to Python 3 fork of CleverTap python csv download tool
+
+### Notes
+Everything remains the same. Just use 2to3 plugin to port this to Python 3 and fixed the writefile command to not use the byte "b" flag
 
 ### Usage
 to download user profiles/events to a csv:
